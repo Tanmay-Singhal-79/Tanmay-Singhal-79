@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0F0F0F,100:FF0000&height=180&section=header&text=Tanmay%20Singhal&fontSize=45&fontColor=ffffff&animation=twinkling"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=40&pause=999999&color=FFFFFF&center=true&vCenter=true&width=700&lines=Tanmay+Singhal" />
 </p>
 
 <h3 align="center">
