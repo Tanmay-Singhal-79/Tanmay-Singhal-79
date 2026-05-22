@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tanmay Singhal</h1>
 
 <h3 align="center">
-Full Stack Developer • AI/ML Enthusiast • Founder @ Startifie
+AI & Machine Learning Developer • Full Stack Engineer • Founder @ Startifie
 </h3>
 
 <p align="center">
-Building scalable web applications, AI-powered solutions, and digital products that solve real-world problems.
+Passionate about building intelligent systems, scalable web applications, and impactful digital products.
 </p>
 
 <p align="center">
@@ -22,13 +22,19 @@ Building scalable web applications, AI-powered solutions, and digital products t
 
 ## 🚀 About Me
 
-- 💻 Full Stack Developer focused on modern web applications
-- 🤖 Exploring Machine Learning, Generative AI & Data Engineering
-- 🏢 Founder of **Startifie** — helping startups and businesses establish their digital presence
-- 🌱 Currently building projects with **React, Next.js, Node.js, Python & Supabase**
-- 🤝 Open to **Internships, Research Opportunities & Open Source Contributions**
-- 🎯 Goal: Build impactful AI-driven products used by thousands of people
-- 🎸 Musician who enjoys singing and playing guitar alongside coding
+💡 AI & Machine Learning Developer and Full Stack Engineer with strong foundations in scalable application development and data-driven systems.
+
+🏢 Founder of **Startifie**, building modern web applications and digital solutions for startups, businesses, and entrepreneurs.
+
+🤖 Currently exploring **Machine Learning, Generative AI, Data Engineering, and Intelligent Systems**.
+
+💻 Experienced in developing production-ready applications using **React.js, Next.js, Node.js, Supabase, PostgreSQL, and Python**.
+
+📚 Solved **100+ DSA problems** across LeetCode and GeeksforGeeks with strong problem-solving skills.
+
+🤝 Open to **Internships, Research Opportunities, Open Source Contributions, and Technical Collaborations**.
+
+🎸 Outside technology, I enjoy music, singing, and playing guitar.
 
 ---
 
@@ -38,41 +44,75 @@ Building scalable web applications, AI-powered solutions, and digital products t
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+### Database
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 
-### AI & Data
+### AI & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 
-### Tools
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
+
+### Tools & Deployment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
 ## 🌟 Featured Projects
 
 ### 🎮 Gaming Challenge Platform
-Competitive gaming platform with authentication, contest management, screenshot verification and winner declaration using React, Next.js and Supabase.
+Full-stack gaming competition platform with authentication, contest management, screenshot verification, winner declaration, and admin dashboard.
 
-### 🛒 Modern E-Commerce Demo
-Animated e-commerce experience showcasing responsive design, smooth interactions and optimized user experience.
+**Tech Stack:** React.js • Next.js • Node.js • Supabase
+
+---
+
+### 📡 IoT Lost Item Tracker
+Real-time smart tracking system using ESP32 and BLE technology to locate lost items through proximity alerts and monitoring.
+
+**Tech Stack:** ESP32 • BLE • Embedded Systems
+
+---
+
+### ✨ Neon Light Store
+Custom e-commerce platform for personalized neon products featuring responsive design, product customization, and optimized user experience.
+
+**Tech Stack:** React.js • Next.js • Node.js
+
+---
 
 ### 🚀 Startifie
-Startup focused on providing websites, applications and digital solutions for startups, freelancers and small businesses.
+Tech startup focused on delivering websites, web applications, and digital solutions for startups, freelancers, and businesses.
+
+**Tech Stack:** React.js • Next.js • Node.js • Supabase
+
+---
+
+## 🏅 Certifications
+
+✔ Microsoft Certified: Azure Fundamentals
+
+✔ Microsoft Certified: Azure AI Fundamentals
 
 ---
 
@@ -92,11 +132,10 @@ Startup focused on providing websites, applications and digital solutions for st
 
 ---
 
-## 📫 Let's Connect
+### 📫 Let's Connect
 
 📧 tanmaysinghal7976@gmail.com
 
-💼 LinkedIn:
-https://www.linkedin.com/in/tanmay-singhal-11ba57333
+💼 LinkedIn: www.linkedin.com/in/tanmay-singhal-11ba57333
 
-⭐ Always interested in collaborating on innovative projects, research work and startup ideas.
+⭐ Always excited to collaborate on innovative projects, AI research, startups, and open-source initiatives.
