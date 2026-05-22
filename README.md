@@ -1,4 +1,8 @@
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Tanmay+Singhal;AI+and+Machine+Learning+Developer;Full+Stack+Engineer;Founder+of+Startifie+🚀)](https://git.io/typing-svg)
+
+</div>
 
 <h3 align="center">
 AI & Machine Learning Developer • Full Stack Engineer • Founder @ Startifie
