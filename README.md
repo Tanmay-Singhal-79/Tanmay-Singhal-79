@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Tanmay Singhal</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Tanmay+Singhal;AI+%26+Machine+Learning+Developer;Full+Stack+Engineer;Founder+of+Startifie+🚀" alt="Typing SVG" />
+</h1>
 
 <h3 align="center">
 AI & Machine Learning Developer • Full Stack Engineer • Founder @ Startifie
