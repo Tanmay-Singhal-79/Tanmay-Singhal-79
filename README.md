@@ -1,4 +1,3 @@
-# About Me:
 # Hi there 👋, I'm Tanmay Singhal
 
 💡 Full Stack Developer | AI/ML Enthusiast | Entrepreneur
