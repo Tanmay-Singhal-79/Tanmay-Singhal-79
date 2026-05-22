@@ -1,5 +1,15 @@
 # About Me:
-I’m currently building scalable web applications, AI-powered tools, and growing Startifie <br><br> I’m looking to collaborate on AI, Full Stack Development, Open Source, and Startup Projects<br><br> I’m looking for help with AI Research, Data Engineering, and Product Scaling<br><br> I’m currently learning Machine Learning, Generative AI, Data Engineering, and Advanced System Design<br><br> Ask me about React, Next.js, JavaScript, Python, Supabase, Web Development, and Entrepreneurship<br><br> Fun fact: I can switch from debugging code to playing guitar in seconds 
+# Hi there 👋, I'm Tanmay Singhal
+
+💡 Full Stack Developer | AI/ML Enthusiast | Entrepreneur
+
+I enjoy transforming ideas into impactful digital products. From modern websites and scalable web applications to AI-powered solutions, I love building technology that solves real problems.
+
+🚀 Founder of Startifie
+🌱 Learning Machine Learning, Generative AI & Data Engineering
+💻 Building Full Stack Applications with React, Next.js, Node.js & Supabase
+🤝 Looking for Internship, Open Source & Research Opportunities
+🎵 Musician by Passion | Developer by Profession
 
 
 ## 🌐 Socials:
