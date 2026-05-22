@@ -120,17 +120,17 @@ Tech startup focused on delivering websites, web applications, and digital solut
 
 ## 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Tanmay-Singhal-79&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=Tanmay-Singhal-79&theme=merko&hide_border=true)
 
-![](https://streak-stats.demolab.com?user=Tanmay-Singhal-79&theme=tokyonight)
+![](https://streak-stats.demolab.com?user=Tanmay-Singhal-79&theme=merko&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-Singhal-79&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-Singhal-79&layout=compact&theme=merko&hide_border=true)
 
 ---
 
 ## 🏆 GitHub Achievements
 
-![](https://github-profile-trophy.vercel.app/?username=Tanmay-Singhal-79&theme=tokyonight&no-frame=true&margin-w=10)
+![](https://github-profile-trophy.vercel.app/?username=Tanmay-Singhal-79&theme=algolia&no-frame=true)
 
 ---
 
