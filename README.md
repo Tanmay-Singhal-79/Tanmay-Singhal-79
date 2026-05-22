@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:FF0000&height=220&section=header&text=Tanmay%20Singhal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Developer%20|%20Full%20Stack%20Engineer&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0F0F0F,100:FF0000&height=180&section=header&text=Tanmay%20Singhal&fontSize=45&fontColor=ffffff&animation=twinkling"/>
 </p>
 
 <h3 align="center">
@@ -7,7 +7,7 @@ AI & Machine Learning Developer • Full Stack Engineer • Founder @ Startifie
 </h3>
 
 <p align="center">
-Passionate about building intelligent systems, scalable web applications, and impactful digital products.
+Building intelligent systems, scalable applications, and impactful digital products.
 </p>
 
 <p align="center">
