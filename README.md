@@ -1,8 +1,6 @@
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Tanmay+Singhal;AI+and+Machine+Learning+Developer;Full+Stack+Engineer;Founder+of+Startifie+🚀)](https://git.io/typing-svg)
-
-</div>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:FF0000&height=220&section=header&text=Tanmay%20Singhal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Developer%20|%20Full%20Stack%20Engineer&descAlignY=60"/>
+</p>
 
 <h3 align="center">
 AI & Machine Learning Developer • Full Stack Engineer • Founder @ Startifie
