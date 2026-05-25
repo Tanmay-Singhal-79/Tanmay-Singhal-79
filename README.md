@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-AI & Machine Learning Developer • Full Stack Engineer • Founder @ Startifie
+AI/ML Engineer • Full Stack Developer • Building Real-World Products
 </h3>
 
 <p align="center">
@@ -24,19 +24,18 @@ Building intelligent systems, scalable applications, and impactful digital produ
 
 ## 🚀 About Me
 
-💡 AI & Machine Learning Developer and Full Stack Engineer with strong foundations in scalable application development and data-driven systems.
+Computer Science (AI/ML) student passionate about building scalable web applications, data-driven solutions, and intelligent systems that solve real-world problems.
 
-🏢 Founder of **Startifie**, building modern web applications and digital solutions for startups, businesses, and entrepreneurs.
+Experienced in developing full-stack applications using **React.js, Next.js, Node.js, Supabase, PostgreSQL, Python, and modern web technologies**.
 
-🤖 Currently exploring **Machine Learning, Generative AI, Data Engineering, and Intelligent Systems**.
+Skilled in **Data Analytics, Data Visualization, Tableau, SQL, and business insight generation** through practical projects and real-world datasets.
+Currently exploring **Machine Learning, Generative AI, Data Engineering, and Intelligent Systems** while strengthening software engineering fundamentals.
 
-💻 Experienced in developing production-ready applications using **React.js, Next.js, Node.js, Supabase, PostgreSQL, and Python**.
+Solved **100+ DSA problems** across LeetCode and GeeksforGeeks, focusing on algorithms, problem-solving, and efficient system design.
+Built multiple projects ranging from **business platforms and analytics dashboards to AI-powered applications**, gaining hands-on experience in product development and deployment.
 
-📚 Solved **100+ DSA problems** across LeetCode and GeeksforGeeks with strong problem-solving skills.
-
-🤝 Open to **Internships, Research Opportunities, Open Source Contributions, and Technical Collaborations**.
-
-🎸 Outside technology, I enjoy music, singing, and playing guitar.
+Open to **Software Engineering, AI/ML, Data Analytics internships, research opportunities, open-source contributions, and technical collaborations**.
+Outside of technology, I enjoy music, singing, and playing guitar.
 
 ---
 
@@ -82,25 +81,38 @@ Building intelligent systems, scalable applications, and impactful digital produ
 
 ## 🌟 Featured Projects
 
-### 🎮 Gaming Challenge Platform
-Full-stack gaming competition platform with authentication, contest management, screenshot verification, winner declaration, and admin dashboard.
+### 🏪 OneDukaan – Hyperlocal Marketplace
+Developed a location-based marketplace platform that connects customers with nearby stores, enabling product discovery, cart management, and streamlined online ordering. Focused on improving local business visibility and customer accessibility through digital commerce.
 
-**Tech Stack:** React.js • Next.js • Node.js • Supabase
+**Tech Stack:** Next.js • React.js • Node.js • PostgreSQL • Supabase
+
+---
+
+### 🚀 Startifie
+Built and managed a digital solutions platform focused on helping startups, freelancers, and small businesses establish their online presence through modern websites, web applications, and technical support services. Involved in product development, client-focused solutions, and end-to-end deployment.
+
+**Tech Stack:** React.js • Next.js • Node.js • Supabase • PostgreSQL
 
 ---
 
 ### 📡 IoT Lost Item Tracker
-Real-time smart tracking system using ESP32 and BLE technology to locate lost items through proximity alerts and monitoring.
+Developed a real-time smart tracking solution that helps users locate misplaced items using BLE-based proximity detection and ESP32 hardware. The system provides instant alerts and location monitoring to improve item recovery and tracking efficiency.
 
 **Tech Stack:** ESP32 • BLE • Embedded Systems
 
 ---
 
-### ✨ Neon Light Store
-Custom e-commerce platform for personalized neon products featuring responsive design, product customization, and optimized user experience.
+### ✨ Custom Neon Light E-Commerce Platform
+Built a modern e-commerce platform for personalized neon signage, featuring product customization, responsive design, category management, and a seamless user experience. Designed to support custom orders and scalable online storefront operations.
 
-**Tech Stack:** React.js • Next.js • Node.js
+**Tech Stack:** React.js • Next.js • Node.js • Supabase
 
+---
+
+### 🎮 Gaming Challenge Platform
+Designed and developed a full-stack gaming competition platform enabling players to participate in skill-based challenges, submit gameplay proof, track results, and compete through a centralized dashboard. Includes secure authentication, contest management, winner verification, and administrative controls.
+
+**Tech Stack:** React.js • Next.js • Node.js • Supabase
 ---
 
 ### 🚀 Startifie
@@ -112,9 +124,11 @@ Tech startup focused on delivering websites, web applications, and digital solut
 
 ## 🏅 Certifications
 
-✔ Microsoft Certified: Azure Fundamentals
+✔ Deloitte Australia – Data Analytics Job Simulation (Forage)
 
-✔ Microsoft Certified: Azure AI Fundamentals
+✔ Microsoft Certified: Azure Fundamentals (AZ-900)
+
+✔ Microsoft Certified: Azure AI Fundamentals (AI-900)
 
 ---
 
