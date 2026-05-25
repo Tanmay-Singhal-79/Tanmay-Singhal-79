@@ -124,13 +124,6 @@ Designed and developed a full-stack gaming competition platform enabling players
 
 ---
 
-### 🚀 Startifie
-Tech startup focused on delivering websites, web applications, and digital solutions for startups, freelancers, and businesses.
-
-**Tech Stack:** React.js • Next.js • Node.js • Supabase
-
----
-
 ## 🏅 Certifications
 
 ✔ Deloitte Australia – Data Analytics Job Simulation (Forage)
