@@ -113,6 +113,7 @@ Built a modern e-commerce platform for personalized neon signage, featuring prod
 Designed and developed a full-stack gaming competition platform enabling players to participate in skill-based challenges, submit gameplay proof, track results, and compete through a centralized dashboard. Includes secure authentication, contest management, winner verification, and administrative controls.
 
 **Tech Stack:** React.js • Next.js • Node.js • Supabase
+
 ---
 
 ### 🚀 Startifie
