@@ -134,9 +134,15 @@ Designed and developed a full-stack gaming competition platform enabling players
 
 ---
 
-## 📈 GitHub Stat
+## 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Tanmay-Singhal-79&show_icons=true&bg_color=000000&title_color=B22222&text_color=ffffff&icon_color=B22222&border_color=B22222) ![](https://streak-stats.demolab.com?user=Tanmay-Singhal-79&theme=highcontrast) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-Singhal-79&layout=compact&bg_color=000000&title_color=B22222&text_color=ffffff&border_color=B22222) --- ## 🏆 GitHub Achievements ![](https://github-profile-trophy.vercel.app/?username=Tanmay-Singhal-79&theme=onestar&no-frame=true)
+![](https://github-readme-stats.vercel.app/api?username=Tanmay-Singhal-79&show_icons=true&bg_color=000000&title_color=B22222&text_color=ffffff&icon_color=B22222&border_color=B22222) ![](https://streak-stats.demolab.com?user=Tanmay-Singhal-79&theme=highcontrast) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-Singhal-79&layout=compact&bg_color=000000&title_color=B22222&text_color=ffffff&border_color=B22222)
+
+---
+
+## 🏆 GitHub Achievements
+
+[](https://github-profile-trophy.vercel.app/?username=Tanmay-Singhal-79&theme=onestar&no-frame=true)
 
 ---
 
