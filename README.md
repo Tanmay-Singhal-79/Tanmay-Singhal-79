@@ -134,15 +134,59 @@ Designed and developed a full-stack gaming competition platform enabling players
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=Tanmay-Singhal-79&show_icons=true&bg_color=000000&title_color=B22222&text_color=ffffff&icon_color=B22222&border_color=B22222) ![](https://streak-stats.demolab.com?user=Tanmay-Singhal-79&theme=highcontrast) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-Singhal-79&layout=compact&bg_color=000000&title_color=B22222&text_color=ffffff&border_color=B22222)
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tanmay-Singhal-79&show_icons=true&bg_color=000000&title_color=B22222&text_color=ffffff&icon_color=B22222&border_color=B22222&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmay-Singhal-79&background=000000&ring=B22222&fire=B22222&currStreakLabel=B22222&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&border=B22222"/>
+
+</p>
+
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tanmay-Singhal-79&bg_color=000000&color=ffffff&line=B22222&point=B22222&area=true&hide_border=false&border_color=B22222"/>
+
+</p>
+
+
+---
+
+## 💻 Language Distribution
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-Singhal-79&layout=donut&bg_color=000000&title_color=B22222&text_color=ffffff&border_color=B22222"/>
+
+</p>
+
 
 ---
 
 ## 🏆 GitHub Achievements
 
-[](https://github-profile-trophy.vercel.app/?username=Tanmay-Singhal-79&theme=onestar&no-frame=true)
+<p align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Tanmay-Singhal-79&theme=onestar&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7"/>
+
+</p>
+
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Tanmay-Singhal-79/Tanmay-Singhal-79/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
 
 ---
 
