@@ -133,46 +133,7 @@ Designed and developed a full-stack gaming competition platform enabling players
 ✔ Microsoft Certified: Azure AI Fundamentals (AI-900)
 
 ---
-
-## 📊 GitHub Analytics & Achievements
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tanmay-Singhal-79&show_icons=true&theme=dark&hide_border=true&title_color=ff0000&icon_color=ff0000"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmay-Singhal-79&theme=dark&hide_border=true&ring=ff0000&fire=ff0000&currStreakLabel=ff0000"/>
-
-</p>
-
----
-
-## 📈 Contribution Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanmay-Singhal-79&theme=react-dark&hide_border=true&area=true&color=ff0000&line=ff0000&point=ffffff"/>
-
-</p>
-
----
-
-## 💻 Most Used Technologies
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-Singhal-79&layout=compact&theme=dark&hide_border=true&title_color=ff0000"/>
-
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Tanmay-Singhal-79&theme=darkhub&no-frame=true&margin-w=15"/>
-
-</p>
+## 📈 GitHub Stats ![](https://github-readme-stats.vercel.app/api?username=Tanmay-Singhal-79&show_icons=true&bg_color=000000&title_color=B22222&text_color=ffffff&icon_color=B22222&border_color=B22222) ![](https://streak-stats.demolab.com?user=Tanmay-Singhal-79&theme=highcontrast) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-Singhal-79&layout=compact&bg_color=000000&title_color=B22222&text_color=ffffff&border_color=B22222) --- ## 🏆 GitHub Achievements ![](https://github-profile-trophy.vercel.app/?username=Tanmay-Singhal-79&theme=onestar&no-frame=true)
 ---
 
 ### 📫 Let's Connect
