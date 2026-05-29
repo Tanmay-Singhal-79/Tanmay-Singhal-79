@@ -134,20 +134,34 @@ Designed and developed a full-stack gaming competition platform enabling players
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics & Achievements
 
-![](https://github-readme-stats.vercel.app/api?username=Tanmay-Singhal-79&show_icons=true&bg_color=000000&title_color=B22222&text_color=ffffff&icon_color=B22222&border_color=B22222)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanmay-Singhal-79&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3131&icon_color=FF3131&text_color=FFFFFF" width="48%" />
 
-![](https://streak-stats.demolab.com?user=Tanmay-Singhal-79&theme=highcontrast)
+  <img src="https://streak-stats.demolab.com?user=Tanmay-Singhal-79&theme=radical&hide_border=true&background=0D1117&ring=FF3131&fire=FF3131&currStreakLabel=FF3131" width="48%" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-Singhal-79&layout=compact&bg_color=000000&title_color=B22222&text_color=ffffff&border_color=B22222)
 
----
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanmay-Singhal-79&bg_color=0D1117&color=FFFFFF&line=FF3131&point=FF3131&area=true&hide_border=true" />
+</p>
+
+
+## 💻 Most Used Technologies
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-Singhal-79&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3131&text_color=FFFFFF" />
+</p>
+
 
 ## 🏆 GitHub Achievements
 
-![](https://github-profile-trophy.vercel.app/?username=Tanmay-Singhal-79&theme=onestar&no-frame=true)
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tanmay-Singhal-79&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+</p>
 ---
 
 ### 📫 Let's Connect
