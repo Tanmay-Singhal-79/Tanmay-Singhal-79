@@ -137,9 +137,11 @@ Designed and developed a full-stack gaming competition platform enabling players
 ## 📈 GitHub Analytics
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tanmay-Singhal-79&show_icons=true&theme=transparent&title_color=B22222&text_color=ffffff&icon_color=B22222&border_color=B22222"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tanmay-Singhal-79&show_icons=true&theme=github_dark&hide_border=false&border_color=B22222&title_color=B22222&icon_color=B22222"/>
 
 <img width="49%" src="https://streak-stats.demolab.com?user=Tanmay-Singhal-79&theme=dark&border=B22222&ring=B22222&fire=B22222&currStreakLabel=B22222"/>
+
 </p>
 
 
@@ -148,7 +150,9 @@ Designed and developed a full-stack gaming competition platform enabling players
 ## 📊 Contribution Graph
 
 <p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tanmay-Singhal-79&theme=high-contrast&bg_color=000000&color=ffffff&line=B22222&point=B22222"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tanmay-Singhal-79&theme=github-dark&bg_color=000000&color=ffffff&line=B22222&point=B22222&area=true"/>
+
 </p>
 
 
@@ -157,7 +161,9 @@ Designed and developed a full-stack gaming competition platform enabling players
 ## 💻 Language Distribution
 
 <p align="center">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-Singhal-79&layout=compact&theme=transparent&title_color=B22222&text_color=ffffff&border_color=B22222"/>
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-Singhal-79&theme=github_dark&layout=compact&hide_border=false&border_color=B22222&title_color=B22222"/>
+
 </p>
 
 
@@ -166,7 +172,9 @@ Designed and developed a full-stack gaming competition platform enabling players
 ## 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Tanmay-Singhal-79&theme=onedark&no-frame=true&margin-w=10"/>
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Tanmay-Singhal-79&theme=radical&no-frame=true&margin-w=10"/>
+
 </p>
 
 ---
