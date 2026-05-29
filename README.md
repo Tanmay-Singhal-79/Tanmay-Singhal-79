@@ -137,30 +137,41 @@ Designed and developed a full-stack gaming competition platform enabling players
 ## 📊 GitHub Analytics & Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanmay-Singhal-79&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3131&icon_color=FF3131&text_color=FFFFFF" width="48%" />
 
-  <img src="https://streak-stats.demolab.com?user=Tanmay-Singhal-79&theme=radical&hide_border=true&background=0D1117&ring=FF3131&fire=FF3131&currStreakLabel=FF3131" width="48%" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tanmay-Singhal-79&show_icons=true&theme=dark&hide_border=true&title_color=ff0000&icon_color=ff0000"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmay-Singhal-79&theme=dark&hide_border=true&ring=ff0000&fire=ff0000&currStreakLabel=ff0000"/>
+
 </p>
 
+---
 
 ## 📈 Contribution Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanmay-Singhal-79&bg_color=0D1117&color=FFFFFF&line=FF3131&point=FF3131&area=true&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanmay-Singhal-79&theme=react-dark&hide_border=true&area=true&color=ff0000&line=ff0000&point=ffffff"/>
+
 </p>
 
+---
 
 ## 💻 Most Used Technologies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-Singhal-79&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3131&text_color=FFFFFF" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-Singhal-79&layout=compact&theme=dark&hide_border=true&title_color=ff0000"/>
+
 </p>
 
+---
 
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tanmay-Singhal-79&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Tanmay-Singhal-79&theme=darkhub&no-frame=true&margin-w=15"/>
+
 </p>
 ---
 
